@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Admin\source\repos\VolumeTrigger\VolumeTrigger\Session.h(80,22): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Admin\source\repos\VolumeTrigger\VolumeTrigger\main.cpp(10,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  VolumeTrigger.vcxproj -> C:\Users\Admin\source\repos\VolumeTrigger\x64\Debug\VolumeTrigger.exe
