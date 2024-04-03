@@ -45,6 +45,7 @@ void main() {
 		CHECK_HR(audioSessionEnumerator->GetSession(sessionIndex, &audioSessionControl));
 		sessionList.push_back(new Session(*audioSessionControl));
 	}
+	audioSessionEnumerator.Release();
 
 	while (true) {
 		if (!inactiveSessionList.empty()) {
